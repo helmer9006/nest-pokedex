@@ -5,6 +5,11 @@
 # Ejecutar en desarrollo
 
 1. Clonar el repositorio
+
+```
+https://github.com/helmer9006/nest-pokedex.git
+```
+
 2. Ejecutar
 
 ```
@@ -14,7 +19,7 @@ Yarn install
 3. Tener Nest CLI instalado
 
 ```
-npm i -g @nestjs/cli
+yarn install -g @nestjs/cli
 ```
 
 4. Levantar la base de datos
@@ -24,5 +29,6 @@ docker-compose up -d
 ```
 
 ## stack usado
-* MongoDB
-* Nest
+
+- MongoDB
+- Nest
