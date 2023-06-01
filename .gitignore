@@ -36,3 +36,7 @@ lerna-debug.log*
 
 #DB
 /mongo
+
+#environment
+.env
+.env.prod
